@@ -14,7 +14,7 @@ const Navbar = () => {
           onClick={() => navigate("/")}
           className="text-2xl md:text-3xl font-bold cursor-pointer"
         >
-          Fund<span className="text-purple-600">Sharing</span>
+          Shifa<span className="text-purple-600">Link</span>
         </h1>
 
         {/* Desktop Nav */}
