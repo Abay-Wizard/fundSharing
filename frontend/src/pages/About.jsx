@@ -4,7 +4,7 @@ const About = () => (
   <section className="max-w-5xl mx-auto px-6 py-20">
     <h2 className="text-4xl font-bold text-purple-700 mb-6">About Us</h2>
     <p className="text-gray-700 text-lg leading-relaxed whitespace-pre-line">
-      Fundsharing is a community-driven fundraising platform with a mission to make healthcare
+      ShifaLink is a community-driven fundraising platform with a mission to make healthcare
       assistance accessible to everyone. We remove unnecessary fees so that every dollar you
       donate reaches the people who need it most.
     </p>
